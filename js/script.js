@@ -1,4 +1,5 @@
 $('.pdf').on('click', function(){
+	alert(1);
 var docInfo = {
 		
 		info: {
