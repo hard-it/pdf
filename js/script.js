@@ -1,6 +1,6 @@
-$('.pdf').on('click', function(){
-	alert(1);
-var docInfo = {
+$('body').on('click', function(){
+
+	var docInfo = {
 		
 		info: {
 			title:'Тестовый документ PDF',
